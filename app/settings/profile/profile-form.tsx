@@ -12,7 +12,7 @@ import { toast } from "@/components/ui/use-toast";
 import { createBrowserSupabaseClient } from "@/lib/client-utils";
 import { type Database } from "@/lib/schema";
 import { useRouter } from "next/navigation";
-import { useState, type BaseSyntheticEvent, type MouseEvent } from "react";
+import { useState, type BaseSyntheticEvent, type MouseEvent } from "react"; 
 
 // Use Zod to define the shape + requirements of a Profile entry; used in form validation
 const profileFormSchema = z.object({
