@@ -1,3 +1,8 @@
+# Changes I Made:
+
+- app/species: Created edit-species-dialog.tsx, modified add-species-dialog.tsx, species-card.tsx, and page.tsx
+- Added 'delete' button feature
+
 # T4SG Fall 2024 Application Deliverable
 
 - [T4SG Fall 2024 Application Deliverable](#t4sg-spring-2024-application-deliverable)
